@@ -43,7 +43,7 @@ SMS_VRF_EXPIRY = 300
 EMAIL_VRF_EXPIRY = 7200
 
 # root admin password
-ROOT_PASSWORD = 'Cisco123456.'
+ROOT_PASSWORD = 'ROOT_PASSWORD'
 
 # configuration when loading back-end
 HOST = None
